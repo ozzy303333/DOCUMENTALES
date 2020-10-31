@@ -80,6 +80,38 @@ http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Without category" tvg-logo="https://lh3.googleusercontent.com/-WLmjicI1-I8/XzgrvuLFw8I/AAAAAAAA4bo/zt2ZcBCwvZIIJrWG13MgiAMThJpTyKWBgCK8BGAsYHg/s0/2020-08-15.png",Telemar Campeche
 https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Without category" tvg-logo="https://lh3.googleusercontent.com/-LrjKzp-X2HY/Xzgr8J4CsTI/AAAAAAAA4bs/0o1Gx6cjxBQBveXGmm2m7BbiNWqqg1gQACK8BGAsYHg/s0/2020-08-15.png",Telemax Hermosillo
+#EXTINF:-1 group-title="Without category" tvg-logo="https://img.iptvmate.net/e29a581767d36a599dfee61edcbd0d86.png",Anexion TV
+https://ch.iptvmate.net/9c72d9181f062b56a2e8d8e31f2f1ef8.m3u8
+#EXTINF:-1 group-title="Without category" tvg-logo="https://img.iptvmate.net/04ab0e133ef776f83a2f2063d2a8f5cb.jpg",Antofagasta TV
+https://ch.iptvmate.net/21b0b04adb812ddbaf176cf807446982.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.iptvmate.net/54ba855da54de252b2328f64be8c7478.jpg",Aragón Deporte HD
+https://ch.iptvmate.net/d9406c1eb5ee9cae120052972bad503d.m3u8
+#EXTINF:-1 group-title="Without category" tvg-logo="https://img.iptvmate.net/810f4e52bedddc985d22e9f6c6992dda.png",Aragón TV
+https://ch.iptvmate.net/5e6fca789bf9046c869b7d518a82c122.m3u8
+#EXTINF:-1 group-title="Without category" tvg-logo="https://img.iptvmate.net/c4ee7ca67a2aa4364948f3a9233bbaa9.png",Aragón TV
+https://ch.iptvmate.net/5e6fca789bf9046c869b7d518a82c122.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://img.iptvmate.net/20177c7275b9afc37049dde026d904aa.png",ETB 1
+https://ch.iptvmate.net/59c17b52342f98631b5fb20ca10cbc22.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://img.iptvmate.net/9a25886b9cbef7200008d50c913a9b58.png",ETB 2
+https://ch.iptvmate.net/48e09dbdd9e572c23d75d9fcbb18430e.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://img.iptvmate.net/132b356361f47845dc745ee9444877fa.png",Hosanna Vision
+https://ch.iptvmate.net/9f49f5e2a762e00c90f9121b1782a7c3.m3u8
+#EXTINF:-1 group-title="Without category" tvg-logo="https://img.iptvmate.net/f0095aed7dcf2eb4625c1833e4a47445.png",Huesca TV
+https://ch.iptvmate.net/2367fd9016e7c5b6010fc595509b756e.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://img.iptvmate.net/bc118d1c59172ab5c03ab96b6e882068.png",TeleSUR English
+https://ch.iptvmate.net/ba84197438cb400a413d7e303e423c2a.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Without category" tvg-logo="https://img.iptvmate.net/0420e26fc2bd0f445a1975465ed1c554.png",Tierramia TV
+https://ch.iptvmate.net/30854b153f52af36bba31f943117f066.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://img.iptvmate.net/9ea5a3f98b18fef3b459ae86efea0234.jpg",TV4 La Vall
+https://ch.iptvmate.net/0a408fb6ea7971bd2c67f2ff7b759a38.m3u8
+#EXTINF:-1 group-title="Without category" tvg-logo="https://img.iptvmate.net/328a7d24cd6be5d240f72d2cfed2faad.jpg",TVN Canal 9
+https://ch.iptvmate.net/0073d9f8628a10d67e88acba2d6553f1.m3u8
+#EXTINF:-1 group-title="Without category" tvg-logo="https://img.iptvmate.net/5c479b76bb971ef22803014faa352f46.png",TVP Mazatlan
+https://ch.iptvmate.net/30f5e52a7e24ba5fa6068e8beea9df39.m3u8
+#EXTINF:-1 group-title="Without category" tvg-logo="https://img.iptvmate.net/95df817ee08a704660af1ebce5dbeb1f.png",TVR
+https://ch.iptvmate.net/790a5de49b25faf16eb2ee24240da4a5.m3u8
+#EXTINF:-1 group-title="Without category" tvg-logo="https://img.iptvmate.net/95df817ee08a704660af1ebce5dbeb1f.png",TVR
+https://ch.iptvmate.net/790a5de49b25faf16eb2ee24240da4a5.m3u8?fluxustv.m3u8
 http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Without category" tvg-logo="https://lh3.googleusercontent.com/-S3ATBzfIOtI/XzgsKaexZFI/AAAAAAAA4bw/WLBMpo2xIwEld9MnedtEuKFi3wuaWTUWQCK8BGAsYHg/s0/2020-08-15.png",Transmedia TV Morelia
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8?PlaylistM3UCL
