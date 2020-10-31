@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1,Fox Series SD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/538?checkedby:iptvcat.com
+#EXTINF:-1,TNT Series SD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/563?checkedby:iptvcat.com
+
 #EXTINF:-1 group-title="Without category" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png",Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Without category" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png",Solo Stand Up
