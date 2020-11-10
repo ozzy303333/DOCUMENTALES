@@ -179,3 +179,309 @@ https://tecnoplay.club/hits/principal.php?c=252&f=.m3u8
 https://tecnoplay.club/hits/principal.php?c=231&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Colombia",Canal Tro
 https://tecnoplay.club/hits/principal.php?c=232&f=.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  CAILLOU
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/872
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  CORAJE EL PERRO COBARDE
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/873
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  CUENTOS GREEM
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/874
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  DINOSAURIOS 1991
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/875
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  DRAGON BALL 1984
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/876
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  LOS SIMPSON
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/877
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  SOUTH PARK
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/878
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  THE WALKING DEAD
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/879
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 ALF
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/880
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 AÑOS MARAVILLOSOS 1988
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/881
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 BARNY Y SUS AMIGOS
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/882
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 BATMAN 1966 RETRO
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/883
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 BOB ESPONJA
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/884
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 BREAKING  BAD
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/885
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 CABALLEROS DEL ZODIACO
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/886
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 CANTINFLAS
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/887
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 CASO CERRADO "SEXUALIDAD"
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/888
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 CSI: MIAMI
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/889
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Death note
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/890
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/891
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 DRAGON  BALL SUPER
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/892
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 DRAGON BALL GT 1996
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/893
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 DRAGON BALL Z 1989
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/894
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 El Avispón Verde
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/895
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL CHAPULIN COLORADO
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/896
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL CHAVO DEL 8
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/897
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL CHEMA
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/898
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL COYOTE Y CORRE CAMINOS
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/899
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL PATON DEL MAL
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/900
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL SEÑOR DE LOS CIELOS
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/901
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 FUTURAMA 1999
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/902
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 HAPPY TREE FRIENDS
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/903
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 He-Man
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/904
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 HÉROES EN PIJAMAS
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/905
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 JUEGO DE TRONOS
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/906
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA CASA DE PAPEL
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/907
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA FAMILIA MONSTERS 1964
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/908
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA HORA PICO
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/909
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA PANTERA ROSA
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/910
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA RISA EN VACIONES
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/911
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA ROSA DE GUADALUPE
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/912
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LAZY TOWN
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/913
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LE TEMES ALA OSCURIDAD
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/914
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LOS LOCOS ADDAMS
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/915
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LUIS MIGUEL LA SERIE 2018
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/916
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Malcolm in the middle 2000
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/917
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Mazinger Z
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/918
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Naruto
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/919
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Peliculas de terror
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/920
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 PELICULAS ESTRENOS 2018
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/921
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 PEPPA PIG
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/922
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 PINKY y CEREBRO
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/923
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Pokémon
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/924
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 POWER RANGERS
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/925
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 ROBOTECH
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/926
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 SAILOR MOON
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/927
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Shark Tank México TEP 1
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/928
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Shark Tank México TEP 2
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/929
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 SHERA
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/930
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 SMALLVILLE
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/931
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 SPIDER-MAN
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/932
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 STRANGER THINGS
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/933
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 SUPER CAMPEONES
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/934
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 THUNDERCAST
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/935
+#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 XMEN ANIME
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/936
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA:  DINAMITA SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/1
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA:  TCM SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/2
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: AMC SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/3
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: AZTECA CINEMA
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/4
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: CINE CANAL SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/5
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: CINE LATINO SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/6
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: CINEMAX SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/7
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: DE PELICULA TP MX
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/10
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/11
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/14
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/15
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/16
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/17
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/18
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: GOLDEN PREMIER 1
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/19
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: GOLDEN SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/20
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: HBO 1 SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/21
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: HBO 2 SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/22
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: HBO Family SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/23
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: HBO MUNDI
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/24
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/25
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/26
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: MULTICINEMA SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/27
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: MULTIPREMIER SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/28
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: PARAMOUNT SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/29
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: SPACE SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/30
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/31
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: SYFY*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/32
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: TNT SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/33
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/34
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY CHANNEL SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/35
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY CIVILIZATION SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/36
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY H&H SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/37
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY SCIENCE SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/38
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY THEATHER HD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/39
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY TURBO SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/40
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: H2 SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/41
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: HISTORY SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/42
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: ID SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/43
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: NAT GEO SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/44
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: NATGEO WILD  SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/45
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: TLC SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/46
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE GALAVISION
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/48
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: ANTENA3 SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/49
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: AZ MUNDO SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/50
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: COMEDY CENTRAL HD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/51
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: DHE SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/52
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: DISTRITO COMEDIA TP MX
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/53
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: E! SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/54
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: EL GOURMET SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/55
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: ESTRELLATV
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/65
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: FASHION ONE SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/56
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: FILM & ARTS SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/57
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: FOOD NETWORK TP MX
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/58
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: HOLA !TV SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/59
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: LIFE TIME SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/60
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: MAS CHIC SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/61
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: TL NOVELAS TP MX
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/62
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: UNICABLE TP MX
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/63
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRETENIMIENTO: FOX LIFE TP MX
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/64
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",FOX LIFE
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/66
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Baby TV*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/80
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: BIT ME TP MX
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/89
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Boomerang*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/81
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Discovery Kids SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/82
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Disney JR SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/84
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Disney SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/83
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Disney XD SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/85
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Nat Geo Kids SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/86
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Nick Jr SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/87
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Nickelodeon SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/88
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: TOONCAST TP MX
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/90
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIE: A&E SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/67
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIE: A3SERIES
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/68
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIE: AXN SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/69
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIE: EURO Channel SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/70
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIE: FOX SD *
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/71
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIE: FX Movies SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/72
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIE: FX SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/73
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIE: FXM TP MX
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/74
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIE: SONY SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/76
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIE: TNT SERIES*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/77
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/78
+#EXTINF:-1 group-title="SERIES" tvg-logo="http://127.0.0.1/",SERIES: WARNER SD*
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/79
+#EXTINF:-1 group-title="DP Y EVENTOS" tvg-logo="http://127.0.0.1/",BARCELONA VS REALMADRID
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/2121
+#EXTINF:-1 group-title="DP Y EVENTOS" tvg-logo="http://127.0.0.1/",BARCELONA VS REALMADRID
+http://zufreelist.net:8080/Iptviotvkzksjsusjs/Iptviotvkzksjsusjs/2122
