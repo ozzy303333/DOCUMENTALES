@@ -1,52 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://tecnoplay.club/data2/api.php" group-title="KIDS",CANAL 1
-https://tecnoplay.club/hits/principal.php?c=126&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/zhYNPhN/BABY-TV-IPTVFR.jpg" group-title="KIDS",Baby tv
-https://tecnoplay.club/hits/principal.php?c=11&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/zHhDwmc/Boomerang.jpg" group-title="KIDS",Boomerang
-https://tecnoplay.club/hits/principal.php?c=153&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/xzLfc7H/CARTOON-NETWORK.jpg" group-title="KIDS",Cartoon Network
-https://tecnoplay.club/hits/principal.php?c=21&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/9vCsk23/Discovery-kids.jpg" group-title="KIDS",Discovery Kids
-https://tecnoplay.club/hits/principal.php?c=41&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/fCZtnhg/Disney-Channel.jpg" group-title="KIDS",Disney Channel
-https://tecnoplay.club/hits/principal.php?c=46&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/1LdvjvS/disney-jr.jpg" group-title="KIDS",Disney JR
-https://tecnoplay.club/hits/principal.php?c=47&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/3fw5rVq/Disney-XD.jpg" group-title="KIDS",Disney XD
-https://tecnoplay.club/hits/principal.php?c=48&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/VHt7dPy/Natgeo-Kids.jpg" group-title="KIDS",Natgeo Kids
-https://tecnoplay.club/hits/principal.php?c=130&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/7NwLTsD/Nickelodeon.jpg" group-title="KIDS",Nickelodeon
-https://tecnoplay.club/hits/principal.php?c=124&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/88VkhCV/Nick.jpg" group-title="KIDS",Nick JR
-https://tecnoplay.club/hits/principal.php?c=125&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/Qc0H7KL/Tooncas.jpg" group-title="KIDS",Tooncast
-https://tecnoplay.club/hits/principal.php?c=110&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/NjDXVDR/DISCOVERY-CH.jpg" group-title="CULTURA",Discovery Channel
-https://tecnoplay.club/hits/principal.php?c=39&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/TBGGSCW/Discovery-Turbo.jpg" group-title="CULTURA",Discovery Turbo
-https://tecnoplay.club/hits/principal.php?c=44&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/BfyZBKN/Discovery-Theater.jpg" group-title="CULTURA",Discovery Theater
-https://tecnoplay.club/hits/principal.php?c=43&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/dm6LP29/DISCOVERY-SIEN.jpg" group-title="CULTURA",Discovery Sciences
-https://tecnoplay.club/hits/principal.php?c=42&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/ch2ZYsF/DISCOVERY-HH.jpg" group-title="CULTURA",Discovery H&H
-https://tecnoplay.club/hits/principal.php?c=40&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/xYLmdYv/Investigation-Discovery.jpg" group-title="CULTURA",Investigation Discovery
-https://tecnoplay.club/hits/principal.php?c=96&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/k5K4zhV/TLCIPTVFR.jpg" group-title="CULTURA",Tlc
-https://tecnoplay.club/hits/principal.php?c=114&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/cgckk3C/history-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",History
-https://tecnoplay.club/hits/principal.php?c=92&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/Pct56fs/H2-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",H2
-https://tecnoplay.club/hits/principal.php?c=93&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/dW4yXbn/Nat-Geo-Wild.jpg" group-title="CULTURA",Nat Geo Wild
-https://tecnoplay.club/hits/principal.php?c=127&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/9vd9PF1/National-Geograp.jpg" group-title="CULTURA",National Geographic
-https://tecnoplay.club/hits/principal.php?c=131&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/RDDrkc4/FOX-ACTION.jpg" group-title="CINE Y SERIES",Fox Premium Action
-https://tecnoplay.club/hits/principal.php?c=58&f=.m3u8
+
+PROGRAMAS DE 24 HORAS 7 DIAS DELA SEMANA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/nffZLsM/alf.jpg" group-title="24/7",Alf
 https://tecnoplay.club/hits/principal.php?c=278&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/TBM0WnG/animaniacs.png" group-title="24/7",Animaniacs
@@ -103,6 +57,74 @@ https://tecnoplay.club/hits/principal.php?c=309&f=.m3u8
 https://tecnoplay.club/hits/principal.php?c=310&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/gFngXZZ/Thundercats-Logo-large.jpg" group-title="24/7",Thundercats
 https://tecnoplay.club/hits/principal.php?c=311&f=.m3u8
+
+
+
+
+
+
+
+
+
+PROGRAMAS INFANTILES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://tecnoplay.club/data2/api.php" group-title="KIDS",CANAL 1
+https://tecnoplay.club/hits/principal.php?c=126&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/zhYNPhN/BABY-TV-IPTVFR.jpg" group-title="KIDS",Baby tv
+https://tecnoplay.club/hits/principal.php?c=11&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/zHhDwmc/Boomerang.jpg" group-title="KIDS",Boomerang
+https://tecnoplay.club/hits/principal.php?c=153&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/xzLfc7H/CARTOON-NETWORK.jpg" group-title="KIDS",Cartoon Network
+https://tecnoplay.club/hits/principal.php?c=21&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/9vCsk23/Discovery-kids.jpg" group-title="KIDS",Discovery Kids
+https://tecnoplay.club/hits/principal.php?c=41&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/fCZtnhg/Disney-Channel.jpg" group-title="KIDS",Disney Channel
+https://tecnoplay.club/hits/principal.php?c=46&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/1LdvjvS/disney-jr.jpg" group-title="KIDS",Disney JR
+https://tecnoplay.club/hits/principal.php?c=47&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/3fw5rVq/Disney-XD.jpg" group-title="KIDS",Disney XD
+https://tecnoplay.club/hits/principal.php?c=48&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/VHt7dPy/Natgeo-Kids.jpg" group-title="KIDS",Natgeo Kids
+https://tecnoplay.club/hits/principal.php?c=130&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/7NwLTsD/Nickelodeon.jpg" group-title="KIDS",Nickelodeon
+https://tecnoplay.club/hits/principal.php?c=124&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/88VkhCV/Nick.jpg" group-title="KIDS",Nick JR
+https://tecnoplay.club/hits/principal.php?c=125&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/Qc0H7KL/Tooncas.jpg" group-title="KIDS",Tooncast
+https://tecnoplay.club/hits/principal.php?c=110&f=.m3u8
+
+
+
+
+
+
+
+
+
+CANALES DE TEEVISION 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/NjDXVDR/DISCOVERY-CH.jpg" group-title="CULTURA",Discovery Channel
+https://tecnoplay.club/hits/principal.php?c=39&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/TBGGSCW/Discovery-Turbo.jpg" group-title="CULTURA",Discovery Turbo
+https://tecnoplay.club/hits/principal.php?c=44&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/BfyZBKN/Discovery-Theater.jpg" group-title="CULTURA",Discovery Theater
+https://tecnoplay.club/hits/principal.php?c=43&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/dm6LP29/DISCOVERY-SIEN.jpg" group-title="CULTURA",Discovery Sciences
+https://tecnoplay.club/hits/principal.php?c=42&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/ch2ZYsF/DISCOVERY-HH.jpg" group-title="CULTURA",Discovery H&H
+https://tecnoplay.club/hits/principal.php?c=40&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/xYLmdYv/Investigation-Discovery.jpg" group-title="CULTURA",Investigation Discovery
+https://tecnoplay.club/hits/principal.php?c=96&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/k5K4zhV/TLCIPTVFR.jpg" group-title="CULTURA",Tlc
+https://tecnoplay.club/hits/principal.php?c=114&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/cgckk3C/history-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",History
+https://tecnoplay.club/hits/principal.php?c=92&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/Pct56fs/H2-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",H2
+https://tecnoplay.club/hits/principal.php?c=93&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/dW4yXbn/Nat-Geo-Wild.jpg" group-title="CULTURA",Nat Geo Wild
+https://tecnoplay.club/hits/principal.php?c=127&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/9vd9PF1/National-Geograp.jpg" group-title="CULTURA",National Geographic
+https://tecnoplay.club/hits/principal.php?c=131&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/RDDrkc4/FOX-ACTION.jpg" group-title="CINE Y SERIES",Fox Premium Action
+https://tecnoplay.club/hits/principal.php?c=58&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="Colombia",Trece
 https://tecnoplay.club/hits/principal.php?c=191&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="Colombia",RCN 2
