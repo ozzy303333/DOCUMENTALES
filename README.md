@@ -1,131 +1,4 @@
-
 #EXTM3U
-#EXTINF:-1,CINEMA:  DINAMITA SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/1
-#EXTINF:-1,CINEMA:  TCM SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/2
-#EXTINF:-1,CINEMA: AMC SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/3
-#EXTINF:-1,CINEMA: AZTECA CINEMA
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/4
-#EXTINF:-1,CINEMA: CINE CANAL SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/5
-#EXTINF:-1,CINEMA: CINE LATINO SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/6
-#EXTINF:-1,CINEMA: CINEMAX SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/7
-#EXTINF:-1,CINEMA: CLARO CINEMA SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/8
-#EXTINF:-1,CINEMA: DE PELICULA PLUS
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/9
-#EXTINF:-1,CINEMA: DE PELICULA TP MX
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/10
-#EXTINF:-1,CINEMA: FOX ACTION SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/11
-#EXTINF:-1,CINEMA: FOX CLASICO SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/14
-#EXTINF:-1,CINEMA: FOX COMEDY SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/15
-#EXTINF:-1,CINEMA: FOX FAMYLY SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/16
-#EXTINF:-1,CINEMA: FOX MOVIES SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/17
-#EXTINF:-1,CINEMA: FOX SERIES SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/18
-#EXTINF:-1,CINEMA: GOLDEN PREMIER 1
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/19
-#EXTINF:-1,CINEMA: GOLDEN SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/20
-#EXTINF:-1,CINEMA: HBO 1 SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/21
-#EXTINF:-1,CINEMA: HBO 2 SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/22
-#EXTINF:-1,CINEMA: HBO Family SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/23
-#EXTINF:-1,CINEMA: HBO MUNDI
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/24
-#EXTINF:-1,CINEMA: HBO Plus SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/25
-#EXTINF:-1,CINEMA: HBO XTREAME SD *
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/26
-#EXTINF:-1,CINEMA: MULTICINEMA SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/27
-#EXTINF:-1,CINEMA: MULTIPREMIER SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/28
-#EXTINF:-1,CINEMA: PARAMOUNT SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/29
-#EXTINF:-1,CINEMA: SPACE SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/30
-#EXTINF:-1,CINEMA: STUDIO UNIVERSAL SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/31
-#EXTINF:-1,CINEMA: SYFY*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/32
-#EXTINF:-1,CINEMA: TNT SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/33
-#EXTINF:-1,CULTURA: ANIMAL PLANET SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/34
-#EXTINF:-1,CULTURA: DISCOVERY CHANNEL SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/35
-#EXTINF:-1,CULTURA: DISCOVERY CIVILIZATION SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/36
-#EXTINF:-1,CULTURA: DISCOVERY H&H SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/37
-#EXTINF:-1,CULTURA: DISCOVERY SCIENCE SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/38
-#EXTINF:-1,CULTURA: DISCOVERY THEATHER HD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/39
-#EXTINF:-1,CULTURA: DISCOVERY TURBO SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/40
-#EXTINF:-1,CULTURA: H2 SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/41
-#EXTINF:-1,CULTURA: HISTORY SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/42
-#EXTINF:-1,CULTURA: ID SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/43
-#EXTINF:-1,CULTURA: NAT GEO SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/44
-#EXTINF:-1,CULTURA: NATGEO WILD  SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/45
-#EXTINF:-1,CULTURA: TLC SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/46
-#EXTINF:-1,ENTRE GALAVISION
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/48
-#EXTINF:-1,ENTRE: ANTENA3 SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/49
-#EXTINF:-1,ENTRE: AZ MUNDO SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/50
-#EXTINF:-1,ENTRE: COMEDY CENTRAL HD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/51
-#EXTINF:-1,ENTRE: DHE SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/52
-#EXTINF:-1,ENTRE: DISTRITO COMEDIA TP MX
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/53
-#EXTINF:-1,ENTRE: E! SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/54
-#EXTINF:-1,ENTRE: EL GOURMET SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/55
-#EXTINF:-1,ENTRE: ESTRELLATV
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/65
-#EXTINF:-1,ENTRE: FASHION ONE SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/56
-#EXTINF:-1,ENTRE: FILM & ARTS SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/57
-#EXTINF:-1,ENTRE: FOOD NETWORK TP MX
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/58
-#EXTINF:-1,ENTRE: HOLA !TV SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/59
-#EXTINF:-1,ENTRE: LIFE TIME SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/60
-#EXTINF:-1,ENTRE: MAS CHIC SD*
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/61
-#EXTINF:-1,ENTRE: TL NOVELAS TP MX
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/62
-#EXTINF:-1,ENTRE: UNICABLE TP MX
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/63
-#EXTINF:-1,ENTRETENIMIENTO: FOX LIFE TP MX
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/64
-#EXTINF:-1,FOX LIFE
-http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAE/66
 #EXTINF:-1 group-title="Generalistas" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",La 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",La 1
@@ -154,12 +27,8 @@ https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",Teledeporte GEO
 https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200",Esport 3 GEO CAT
-https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200",Esport 3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200",UD Las Palmas TV
-https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 group-title="Eventuales" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",+24
@@ -258,8 +127,6 @@ http://stream7a.domint.net:8090/stream/1/
 http://paginas.moisespaulino.com:8067/stream
 #EXTINF:-1 ,98.10 HIK69 Radio Amanecer (RD)
 http://radioamanecer.soluvision.net:9035/;?1572045827173
-#EXTINF:-1 ,98.30 FM Raíces  (RD)
-http://stream1.servercristianonetwork.com:8236/live
 #EXTINF:-1 ,98.90 HIK77 Domincana FM (RD)
 http://69.163.34.102:8610/stream/1/
 #EXTINF:-1 ,99.10 FM Cosmos (RD)
@@ -468,30 +335,14 @@ https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
 https://limited22.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1 ,Fuengirola TV
 https://secure.todostreaming.es/live/nerja-livestream.m3u8
-#EXTINF:-1 ,TVM Córdoba
-https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
 #EXTINF:-1 ,Tele Gilena
 https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
-#EXTINF:-1 ,Trebujena TV
-http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
-#EXTINF:-1 ,Canal 25 Barbastro TV
-https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-#EXTINF:-1 ,Televisión Canaria
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
-#EXTINF:-1 ,24h Canarias
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
-#EXTINF:-1 ,NORTEvisión
-http://amaru.dyndns.org:8835/0.m3u8
-#EXTINF:-1 ,Noroeste Televisión
-https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
 #EXTINF:-1 ,Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 ,CMM
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
 #EXTINF:-1 ,Visión 6 TV
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
-#EXTINF:-1 ,Imás TV
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 ,Alcarria TV
 https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 ,Alcarria TV
@@ -616,12 +467,6 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 ,CGTN Documentary EN
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-
-
-
-
-
-#EXTM3U
 #EXTINF:-1 ,"Canal 8 Teleenvigado"
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 #EXTINF:-1 ,"Canal CNC Medellin"
@@ -674,8 +519,6 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
 #EXTINF:-1 ,"La 1"
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 ,"urcia"
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 ,"Canal 24 Horas New!"
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
 #EXTINF:-1 ,"Canaria SAT"
@@ -820,10 +663,6 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 https://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/playlist.m3u8
 #EXTINF:-1 ,"Telever Canal 12"
 http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
-#EXTINF:-1 ,"Televisio Girona"
-http://ventdelnord.tv:8080/girona/directe.m3u8
-#EXTINF:-1 ,"Televisión de Guinea Ecuatorial"
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:-1 ,"TEN Canal 10"
 http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w517207077_b1848000.m3u8
 #EXTINF:-1 ,"Tierramia TV"
@@ -842,8 +681,6 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 ,"Canal 33 Madrid"
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
-#EXTINF:-1 ,"Canal 4 Mancha Centro"
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 #EXTINF:-1 ,"Mas 24 Horas"
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/playlist.m3u8
 #EXTINF:-1 ,"Microvision 10"
@@ -872,8 +709,6 @@ https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 ,"ADN 40"
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
-#EXTINF:-1 ,"Alcarria TV"
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 ,"Antofagasta TV"
 https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
 #EXTINF:-1 ,"Argentinísima Satelital"
@@ -890,8 +725,6 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 http://st2.worldkast.com/8004/8004/playlist.m3u8
 #EXTINF:-1 ,"Canal 10 Rio Negro"
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 ,"Canal 25 Barbastro"
-https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTINF:-1 ,"Canal 26"
 http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 ,"Canal d"
@@ -904,8 +737,6 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1 ,"Distrito TV"
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
-#EXTINF:-1 ,"EITB"
-https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 ,"El Garage"
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 #EXTINF:-1 ,"Elim TV"
@@ -926,14 +757,10 @@ http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
 #EXTINF:-1 ,"Huesca TV"
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
-#EXTINF:-1 ,"Interalmeria TV"
-https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 ,"IPE"
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 ,"ITV Patagonia"
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
-#EXTINF:-1 ,"La 1"
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 ,"LA 90 FM"
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 #EXTINF:-1 ,"Popular TV Melilla"
@@ -1022,8 +849,6 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
 #EXTINF:-1 ,"ONDA TV CANAL 10"
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
-#EXTINF:-1 ,"Panamericana TV"
-https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 ,"PAUTA"
 http://video-ply.pauta.cl/playlist/stream.m3u8
 #EXTINF:-1 ,"Pax TV"
@@ -1128,18 +953,12 @@ https://archive.org/download/abitacion4_202010/abitacion4.ia.mp4
 http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
 #EXTINF:-1 ,France 24
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 ,DW
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 ,NASA Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 ,Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 ,Vibe TV
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-#EXTINF:-1 ,Canal ONCE
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 ,Quiero TV
-https://quierotvlive.tk/httplive/playlist.m3u8
 #EXTINF:-1 ,NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 ,Multivision
@@ -1848,8 +1667,6 @@ https://ss4.domint.net:3008/tra_str/canal45/chunklist_w247528697.m3u8
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 #EXTINF:-1 ,MegaVision (RD)
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1341240833.m3u8
-#EXTINF:-1 ,Teleimpacto (RD)
-http://190.122.96.188:8888/http/013
 #EXTINF:-1 ,LVM (RD)
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w1124872790.m3u8
 #EXTINF:-1 ,SuperTV55 (RD)
@@ -1882,8 +1699,6 @@ http://159stream.ddns.net:1935/agenda56tv/agenda56tv/playlist.m3u8
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
 #EXTINF:-1 ,Pequeradio
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 ,Locomotion TV
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 ,Cbeebies
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 ,3ABN Kids
@@ -1908,8 +1723,6 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=1
 http://91.126.141.201:1935/live/cosmoHD/.m3u8
 #EXTINF:-1 ,SaludTV
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/.m3u8
-#EXTINF:-1 ,France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 ,Discovery Max
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 #EXTINF:-1 ,Ve Plus
@@ -1940,8 +1753,6 @@ https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 ,Bloomberg Television (Opt-1)
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 ,Bloomberg Europe
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 ,ABC News
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 #EXTINF:-1 ,CNBC TV18
