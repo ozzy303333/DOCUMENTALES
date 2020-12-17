@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="Generalistas" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",La 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",La 1
@@ -9,10 +10,6 @@ https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200",Cuatro
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d0d929de59ddae5232eb4e29e65cd70c9f08821c
-#EXTINF:-1 group-title="Generalistas" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200",TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Generalistas" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200",El Toro TV
-https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png",24h
@@ -35,8 +32,6 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
 #EXTINF:-1 group-title="Andalucía" tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg",Trebujena TV
 http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
-#EXTINF:-1 group-title="Aragón" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200",Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 group-title="Aragón" tvg-logo="https://graph.facebook.com/tvbarbastro/picture?width=200&height=200",Canal 25 Barbastro TV
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTINF:-1 group-title="Canarias" tvg-logo="https://graph.facebook.com/188600904655/picture?width=200&height=200",Televisión Canaria
@@ -45,8 +40,6 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
 #EXTINF:-1 group-title="Canarias" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png",24h Canarias
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
-#EXTINF:-1 group-title="Canarias" tvg-logo="https://graph.facebook.com/MirameTVCanarias/picture?width=200&height=200",Mírame TV
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 group-title="Canarias" tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200",NORTEvisión
 http://amaru.dyndns.org:8835/0.m3u8
 #EXTINF:-1 group-title="Canarias" tvg-logo="https://graph.facebook.com/noroestetelevision/picture?width=200&height=200",Noroeste Televisión
@@ -63,8 +56,6 @@ https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/Hispantv/picture?width=200&height=200",Hispan TV Iran
 https://live1.presstv.com/live/hispan.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/AlArabiya/picture?width=200&height=200",Al Arabiya Emiratos Árabes AR
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200",Channel NewsAsia HD EN
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200",Channel NewsAsia SD EN
@@ -73,8 +64,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://graph.facebook.com/unitednations/picture?width=200&height=200",United Nations TV EN
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200",Bloomberg Quicktake EN
-https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png",TVGE 1
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200",Tastemade EN
@@ -83,8 +72,6 @@ https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200",Locomotion TV
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 ,Radio Nueva Vida (Puerto Rico)
 http://radio.ministeriotv.com:8042/stream.mp3
 #EXTINF:-1 ,89.70 HIJ43 Radio Renuevo (RD)
@@ -163,8 +150,6 @@ http://69.163.34.102:8630/;
 http://192.99.44.11:1488/stream
 #EXTINF:-1 ,750 AM Radio Jesús  Santiago (RD)
 http://paginas.moisespaulino.com:8005/stream
-#EXTINF:-1 ,800 PJB Radio Trans Mundial  (RD)
-https://cdn.instream.audio/:9050/stream?_=16e05f5aee6
 #EXTINF:-1 ,950 HIIG Radio Popular  (RD)
 http://radio7a.domint.net:8060/stream
 #EXTINF:-1 ,1060 HIAJ Radio Amanecer  (RD)
@@ -249,8 +234,6 @@ http://ibizaglobalradio.streaming-pro.com:8024/stream
 http://s1.sonicabroadcast.com:7005/;stream/1
 #EXTINF:-1 ,Radio Murta
 http://91.121.156.27:8013/stream
-#EXTINF:-1 ,Canal 4 Ràdio
-http://91.121.156.27:8011/stream
 #EXTINF:-1 ,Radio One Mallorca
 http://80.32.132.126:8000/;
 #EXTINF:-1 ,Onda Cero Noroeste
@@ -401,8 +384,6 @@ https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 #EXTINF:-1 ,Sky News UK EN
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:-1 ,RTÉ News Irlanda EN
-https://live.rte.ie/live/a/channel3/news.isml/.m3u8
 #EXTINF:-1 ,RTCG Montenegro
 http://rtcg3.videostreaming.rs:1935/rtcg/smil:rtcg.smil/playlist.m3u8
 #EXTINF:-1 ,ABC News USA EN
@@ -643,8 +624,6 @@ https://5b38ce71f1f00.streamlock.net/8122/8122/playlist.m3u8
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
 #EXTINF:-1 ,"Real Madrid"
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 ,"Real Madrid TV"
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 #EXTINF:-1 ,"Red ADVenir"
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist.m3u8
 #EXTINF:-1 ,"Romana TV Canal 42"
@@ -975,8 +954,6 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 https://14543.live.streamtheworld.com/XHQQ_FM_SC
 #EXTINF:-1 ,690 RG AM
 https://19303.live.streamtheworld.com/RG690_SC
-#EXTINF:-1 ,LA MEJOR 92.5 FM
-https://16643.live.streamtheworld.com/XHSROFM_SC
 #EXTINF:-1 ,LA CALIENTE 94.1
 https://14943.live.streamtheworld.com/XETFM_SC
 #EXTINF:-1 ,LA LUPE 105.3
@@ -1035,280 +1012,6 @@ http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 #EXTINF:-1 ,Other - Seventeen Video 01
 http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
-#EXTINF:-1 ,Other - Girls + Studs 01
-http://cdn2.servitubes.com/videos/d/a/f/a/d/dafad50cac8d089173cda5f183474c3e887e0fda.mp4
-#EXTINF:-1 ,Other - Dane Jones - My Sweet Spot
-http://cdn.servitubes.com/videos/2/3/e/6/b/23e6bdb1f1136158df6a20b60af4e40b0544c924.mp4
-#EXTINF:-1 ,Other - Lust Cinema - Sex Fetish
-http://cdn.servitubes.com/videos/6/1/7/d/b/617db9bf132a0fcfda158f7ff141c747e38c7582.mp4
-#EXTINF:-1 ,Other - Nubiles Porn - Ricky
-http://cdn.servitubes.com/videos/e/e/6/1/f/ee61f46e421e18382ff152b4cdc74c413236429a.mp4
-#EXTINF:-1 ,Other - Public Pick Ups 01
-http://cdn.servitubes.com/videos/0/2/9/3/c/0293cf9012c23e92d7d68e7d599824008e498f04.mp4
-#EXTINF:-1 ,Paradise Hill - VOD 001 - Fuckin Nerds 1 Part 1
-http://v1.paradisehill.cc/video/080117-0038-192_part1.mp4
-#EXTINF:-1 ,Paradise Hill - VOD 002 - Fuckin Nerds 1 Part 2
-http://v1.paradisehill.cc/video/080117-0038-192_part2.mp4
-#EXTINF:-1 ,Paradise Hill - VOD 003 - Fuckin Nerds 1 Part 3
-http://v1.paradisehill.cc/video/080117-0038-192_part3.mp4
-#EXTINF:-1 ,Paradise Hill - VOD 004 - Fuckin Nerds 1 Part 4
-http://v1.paradisehill.cc/video/080117-0038-192_part4.mp4
-#EXTINF:-1 ,Tiny 4K - VOD 01
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-#EXTINF:-1 ,Tiny 4K - VOD 02
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-#EXTINF:-1 ,Tiny 4K - VOD 03
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-#EXTINF:-1 ,Tiny 4K - VOD 04
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-#EXTINF:-1 ,Tiny 4K - VOD 05
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-#EXTINF:-1 ,Tiny 4K - VOD 06
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-#EXTINF:-1 ,Tiny 4K - VOD 07
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-#EXTINF:-1 ,Tiny 4K - VOD 08
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-#EXTINF:-1 ,Tiny 4K - VOD 09
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-#EXTINF:-1 ,Tiny 4K - VOD 10
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-#EXTINF:-1 ,Tiny 4K - VOD 11
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-#EXTINF:-1 ,Wow Porn - VOD 01
-http://content2.sexforsure.com/2013/07/02/12/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 02
-http://content2.sexforsure.com/2013/07/03/3/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 03
-http://content2.sexforsure.com/2013/07/02/18/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 04
-http://content2.sexforsure.com/2013/07/03/18/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 05
-http://content2.sexforsure.com/2013/07/02/3/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 06
-http://content2.sexforsure.com/2013/07/02/7/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 07
-http://content2.sexforsure.com/2013/07/03/2/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 09
-http://content2.sexforsure.com/2013/07/03/1/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 11
-http://content2.sexforsure.com/2013/07/03/4/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 12
-http://content2.sexforsure.com/2013/07/02/8/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 13
-http://content2.sexforsure.com/2013/07/02/16/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 14
-http://content2.sexforsure.com/2013/07/03/7/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 15
-http://content2.sexforsure.com/2013/07/03/11/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 16
-http://content2.sexforsure.com/2013/07/03/20/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 17
-http://content2.sexforsure.com/2013/07/03/19/Video.mp4
-#EXTINF:-1 ,Wow Porn - VOD 18
-http://content2.sexforsure.com/2013/07/02/14/Video.mp4
-#EXTINF:-1 ,Team Skeet - VOD 18 - Natalia Rossi
-http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
-#EXTINF:-1 ,Brazzers - VOD 001
-http://static.brazzers.com/scenes/3351/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 002
-http://static.brazzers.com/scenes/3352/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 003
-http://static.brazzers.com/scenes/3353/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 004
-http://static.brazzers.com/scenes/3354/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 005
-http://static.brazzers.com/scenes/3355/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 006
-http://static.brazzers.com/scenes/3356/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 007
-http://static.brazzers.com/scenes/3357/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 008
-http://static.brazzers.com/scenes/3358/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 009
-http://static.brazzers.com/scenes/3359/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 010
-http://static.brazzers.com/scenes/3360/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 011
-http://static.brazzers.com/scenes/3361/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 012
-http://static.brazzers.com/scenes/3362/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 013
-http://static.brazzers.com/scenes/3489/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 014
-http://static.brazzers.com/scenes/3488/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 015
-http://static.brazzers.com/scenes/3365/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 016
-http://static.brazzers.com/scenes/3366/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 017
-http://static.brazzers.com/scenes/3367/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 018
-http://static.brazzers.com/scenes/3368/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 019
-http://static.brazzers.com/scenes/3369/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 020
-http://static.brazzers.com/scenes/3487/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 021
-http://static.brazzers.com/scenes/3371/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 022
-http://static.brazzers.com/scenes/3372/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 023
-http://static.brazzers.com/scenes/3373/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 024
-http://static.brazzers.com/scenes/3374/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 025
-http://static.brazzers.com/scenes/3375/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 026
-http://static.brazzers.com/scenes/3376/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 027
-http://static.brazzers.com/scenes/3377/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 028
-http://static.brazzers.com/scenes/3378/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 029
-http://static.brazzers.com/scenes/3379/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 030
-http://static.brazzers.com/scenes/3380/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 031
-http://static.brazzers.com/scenes/3381/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 032
-http://static.brazzers.com/scenes/3382/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 033
-http://static.brazzers.com/scenes/3383/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 034
-http://static.brazzers.com/scenes/3384/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 035
-http://static.brazzers.com/scenes/3385/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 036
-http://static.brazzers.com/scenes/3386/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 037
-http://static.brazzers.com/scenes/3387/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 038
-http://static.brazzers.com/scenes/3388/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 039
-http://static.brazzers.com/scenes/3485/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 040
-http://static.brazzers.com/scenes/3389/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 041
-http://static.brazzers.com/scenes/3390/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 042
-http://static.brazzers.com/scenes/3391/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 043
-http://static.brazzers.com/scenes/3392/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 044
-http://static.brazzers.com/scenes/3393/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 045
-http://static.brazzers.com/scenes/3394/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 046
-http://static.brazzers.com/scenes/3395/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 047
-http://static.brazzers.com/scenes/3396/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 048
-http://static.brazzers.com/scenes/3397/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 049
-http://static.brazzers.com/scenes/3398/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 050
-http://static.brazzers.com/scenes/3483/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 051
-http://static.brazzers.com/scenes/3400/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 052
-http://static.brazzers.com/scenes/3401/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 053
-http://static.brazzers.com/scenes/3402/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 054
-http://static.brazzers.com/scenes/3482/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 055
-http://static.brazzers.com/scenes/3404/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 056
-http://static.brazzers.com/scenes/3405/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 057
-http://static.brazzers.com/scenes/3406/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 058
-http://static.brazzers.com/scenes/3407/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 059
-http://static.brazzers.com/scenes/3408/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 060
-http://static.brazzers.com/scenes/3409/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 061
-http://static.brazzers.com/scenes/3410/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 062
-http://static.brazzers.com/scenes/3411/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 063
-http://static.brazzers.com/scenes/3412/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 064
-http://static.brazzers.com/scenes/3413/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 065
-http://static.brazzers.com/scenes/3414/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 066
-http://static.brazzers.com/scenes/3415/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 067
-http://static.brazzers.com/scenes/3416/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 068
-http://static.brazzers.com/scenes/3417/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 069
-http://static.brazzers.com/scenes/3418/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 070
-http://static.brazzers.com/scenes/3419/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 071
-http://static.brazzers.com/scenes/3420/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 072
-http://static.brazzers.com/scenes/3421/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 073
-http://static.brazzers.com/scenes/3422/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 074
-http://static.brazzers.com/scenes/3423/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 075
-http://static.brazzers.com/scenes/3424/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 076
-http://static.brazzers.com/scenes/3425/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 077
-http://static.brazzers.com/scenes/3426/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 078
-http://static.brazzers.com/scenes/3427/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 079
-http://static.brazzers.com/scenes/3428/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 080
-http://static.brazzers.com/scenes/3429/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 081
-http://static.brazzers.com/scenes/3430/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 082
-http://static.brazzers.com/scenes/3431/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 083
-http://static.brazzers.com/scenes/3432/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 084
-http://static.brazzers.com/scenes/3433/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 085
-http://static.brazzers.com/scenes/3434/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 086
-http://static.brazzers.com/scenes/3435/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 087
-http://static.brazzers.com/scenes/3436/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 088
-http://static.brazzers.com/scenes/3437/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 089
-http://static.brazzers.com/scenes/3438/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 090
-http://static.brazzers.com/scenes/3439/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 091
-http://static.brazzers.com/scenes/3440/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 092
-http://static.brazzers.com/scenes/3441/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 093
-http://static.brazzers.com/scenes/3442/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 094
-http://static.brazzers.com/scenes/3443/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 095
-http://static.brazzers.com/scenes/3444/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 096
-http://static.brazzers.com/scenes/3445/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 097
-http://static.brazzers.com/scenes/3446/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 098
-http://static.brazzers.com/scenes/3447/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 099
-http://static.brazzers.com/scenes/3448/180sec.flv
-#EXTINF:-1 ,Brazzers - VOD 100
-http://static.brazzers.com/scenes/3449/180sec.flv
 #EXTINF:-1 ,La Vendedora de Rosas (1998)
 https://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
 #EXTINF:-1 ,Rodrigo D - No futuro (1990)
@@ -1653,8 +1356,6 @@ https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
 #EXTINF:-1 ,Super Canal 33 (RD)
 http://190.122.96.186:8888/http/005
-#EXTINF:-1 ,ZTV (RD)
-https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 ,Hits360 (RD)
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8
 #EXTINF:-1 ,Sabor a merengue (RD)
