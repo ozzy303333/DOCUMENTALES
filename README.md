@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:0 group-title="MR DOCUMENTALES" tvg-logo="https://pics.filmaffinity.com/Alabama_Snake-615804591-large.jpg" ,Alabama Snake (2020)
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Alabama%20Snake%20%282020%29.mp4
@@ -34,7 +33,7 @@ https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Ivo
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/La%20familia%20del%20soldado%20%282020%29.mp4
 #EXTINF:0 group-title="MR DOCUMENTALES" tvg-logo="https://pics.filmaffinity.com/Las_tres_muertes_de_Marisela_Escobedo-798676546-large.jpg" ,Las tres muertes de Marisela Escobedo (2020)
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Las%20tres%20muertes%20de%20Marisela%20Escobedo%20%282020%29.mp4
-#EXTINF:0 group-title="MR DOCUMENTALES" tvg-logo="Los niños de Hollywood (2020)" ,Los niños de Hollywood (2020)
+#EXTINF:0 group-title="MR DOCUMENTALES" tvg-logo="https://pics.filmaffinity.com/showbiz_kids-562784926-large.jpg" ,Los niños de Hollywood (2020)
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Los%20nin%CC%83os%20de%20Hollywood%20%282020%29.mp4
 #EXTINF:0 group-title="MR DOCUMENTALES" tvg-logo="https://pics.filmaffinity.com/Los_secretos_de_la_tumba_de_Saqqara-103154288-mmed.jpg" ,Los secretos de la tumba de Saqqara (2020)
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Los%20secretos%20de%20la%20tumba%20de%20Saqqara%20%282020%29.mp4
@@ -46,7 +45,7 @@ https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Muc
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Osos%20%282014%29.mp4
 #EXTINF:0 group-title="MR DOCUMENTALES" tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w185/wzvLbFgo4dv9KxkE9FLoMxygWDd.jpg" ,Policías y ladrones (C) (2020)
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Polici%CC%81as%20y%20ladrones%20%28C%29%20%282020%29.mp4
-#EXTINF:0 group-title="MR DOCUMENTALES" tvg-logo="Rising Phoenix Historia de los Juegos Paralímpicos (2020)" ,Rising Phoenix Historia de los Juegos Paralímpicos (2020)
+#EXTINF:0 group-title="MR DOCUMENTALES" tvg-logo="https://pics.filmaffinity.com/Rising_Phoenix_Historia_de_los_Juegos_Paral_mpicos-959944628-large.jpg" ,Rising Phoenix Historia de los Juegos Paralímpicos (2020)
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Rising%20Phoenix%20Historia%20de%20los%20Juegos%20Parali%CC%81mpicos%20%282020%29.mp4
 #EXTINF:0 group-title="MR DOCUMENTALES" tvg-logo="https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Sea%20of%20Shadows%20%282019%29.mp4" ,Sea of Shadows (2019)
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Sea%20of%20Shadows%20%282019%29.mp4
