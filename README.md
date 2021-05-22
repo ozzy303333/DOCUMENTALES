@@ -65,3 +65,7 @@ https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/%C2
 https://archive.org/download/yummy_202105/Stay%20Hungry.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Killing%20Michael%20Jackson.jpg" group-title="MR DOCUMENTALES", Killing Michael Jackson
 https://archive.org/download/yummy_202105/Killing%20Michael%20Jackson.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Revealed%20The%20Hunt%20for%20Bin%20Laden.jpg" group-title="MR DOCUMENTALES", Revealed The Hunt for Bin Laden
+https://archive.org/download/2-comando-commando-1985/Revealed%20The%20Hunt%20for%20Bin%20Laden.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Vietnam%20Fast%20Forward.jpg" group-title="MR DOCUMENTALES", Vietnam Fast Forward
+https://archive.org/download/2-comando-commando-1985/Vietnam%20Fast%20Forward.mp4
