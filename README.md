@@ -69,3 +69,9 @@ https://archive.org/download/yummy_202105/Killing%20Michael%20Jackson.mp4
 https://archive.org/download/2-comando-commando-1985/Revealed%20The%20Hunt%20for%20Bin%20Laden.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Vietnam%20Fast%20Forward.jpg" group-title="MR DOCUMENTALES", Vietnam Fast Forward
 https://archive.org/download/2-comando-commando-1985/Vietnam%20Fast%20Forward.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Descansa%20en%20paz%2C%20Dick%20Johnson.jpg" group-title="MR DOCUMENTALES", Descansa en paz Dick Johnson
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Descansa%20en%20paz%2C%20Dick%20Johnson.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20ni%C3%B1o%20de%20Medell%C3%ADn.jpg" group-title="MR DOCUMENTALES", El niño de Medellin
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20ni%C3%B1o%20de%20Medell%C3%ADn.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ride%20your%20Dream.jpg" group-title="MR DOCUMENTALES", Ride your Dream
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ride%20your%20Dream.mp4
