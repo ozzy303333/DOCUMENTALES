@@ -85,6 +85,24 @@ https://archive.org/download/como-me-converti-en-superheroe/Mosul.jpg
 https://archive.org/download/como-me-converti-en-superheroe/Notre%20Dame%2CLa%20incre%C3%ADble%20carrera%20contra%20el%20infierno.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Seve.jpg" group-title="VOD DOCUMENTALES",Seve
 https://archive.org/download/como-me-converti-en-superheroe/Seve.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X1
+https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X2
+https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X3
+https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X4
+https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x4.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X5
+https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x5.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X6
+https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x6.mp4
+#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/19/items/sr-y-sra-smith/Al%20descubierto%20La%20pelea%20entre%20los%20Detroit.jpg" group-title="VOD DOCUMENTALES",Al descubierto La pelea entre los Detroit
+https://archive.org/download/sr-y-sra-smith/Al%20descubierto%20La%20pelea%20entre%20los%20Detroit.mp4
+#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/19/items/sr-y-sra-smith/Animales%20Humanos.jpg" group-title="VOD DOCUMENTALES",Animales Humanos
+https://archive.org/download/sr-y-sra-smith/Animales%20Humanos.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Shiny_Flakes%20El%20cibernarco%20adolescente.jpg" group-title="VOD DOCUMENTALES",Shiny_Flakes El cibernarco adolescente
+https://archive.org/download/sr-y-sra-smith/Shiny_Flakes%20El%20cibernarco%20adolescente.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20se%20convirtieron%20en%20tiranos.jpg" group-title="VOD Cómo se convirtieron en tiranos",Cómo se convirtieron en tiranos 1X1
 https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20se%20convirtieron%20en%20tiranos%20S01E01.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20se%20convirtieron%20en%20tiranos.jpg" group-title="VOD Cómo se convirtieron en tiranos",Cómo se convirtieron en tiranos 1X2
@@ -105,15 +123,3 @@ https://archive.org/download/como-me-converti-en-superheroe/1x2%20Elize%20Matsun
 https://archive.org/download/como-me-converti-en-superheroe/1x3%20Elize%20Matsunaga%20%C3%89rase%20una%20vez%20un%20crimen%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Elize%20Matsunaga%20%C3%89rase%20una%20vez%20un%20crimen.jpg" group-title="VOD Elize Matsunaga Érase una vez un crimen",1X4 Elize Matsunaga Érase una vez un crimen 2021
 https://archive.org/download/como-me-converti-en-superheroe/1x4%20Elize%20Matsunaga%20%C3%89rase%20una%20vez%20un%20crimen%20%282021%29.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X1
-https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X2
-https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X3
-https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X4
-https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x4.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X5
-https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x5.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gente%20de%20gatos.jpg" group-title="VOD DOCUMENTALES",Gente de gatos 1X6
-https://archive.org/download/como-me-converti-en-superheroe/Cat%20People%201x6.mp4
